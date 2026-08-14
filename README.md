@@ -235,8 +235,8 @@ A personal finance tracker with budgeting insights and interactive charts.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aswin13072004&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin13072004&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats-git-masteranuraghazra.vercel.app/api?username=Aswin13072004&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats-git-masteranuraghazra.vercel.app/api/top-langs/?username=Aswin13072004&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/>
 
@@ -248,7 +248,7 @@ A personal finance tracker with budgeting insights and interactive charts.
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aswin13072004&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy-mu.vercel.app/?username=Aswin13072004&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
