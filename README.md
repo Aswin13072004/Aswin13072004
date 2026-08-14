@@ -235,7 +235,7 @@ A personal finance tracker with budgeting insights and interactive charts.
  
 <div align="center">
  
-<img src="https://github-readme-stats.vercel.app/api?username=aswinc-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aswin13072004-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinc-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=764ba2&text_color=c9d1d9" width="49%"/>
  
 <br/>
