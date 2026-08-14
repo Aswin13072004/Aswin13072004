@@ -235,20 +235,20 @@ A personal finance tracker with budgeting insights and interactive charts.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aswin13072004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin13072004&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=764ba2&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aswin13072004&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin13072004&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin13072004&theme=radical&hide_border=true&background=0d1117&ring=764ba2&fire=667eea" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin13072004&theme=tokyonight&hide_border=true" width="70%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin13072004&theme=radical&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin13072004&theme=tokyo-night&hide_border=true" width="90%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aswin13072004&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aswin13072004&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
@@ -312,7 +312,7 @@ I approach every project with a focus on:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Coding Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Coding Quote"/>
 
 </div>
 
